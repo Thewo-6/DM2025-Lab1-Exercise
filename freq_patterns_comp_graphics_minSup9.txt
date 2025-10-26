@@ -421,7 +421,6 @@ electronic:11
 temp:11
 area:12
 gray:12
-speedstar:12
 colour:12
 showing:12
 cpu:12
@@ -33342,12 +33341,12 @@ personally	tdawson	feel	forum	proposed	herringshaw	learn:10
 proposed	herringshaw	personally:11
 proposed	herringshaw	tdawson:11
 personally	proposed	herringshaw	tdawson:11
-proposed	feel:12
-personally	proposed	feel:12
 proposed	tdawson:12
 proposed	tdawson	feel:11
 personally	proposed	tdawson	feel:11
 proposed	tdawson	personally:12
+proposed	feel:12
+personally	proposed	feel:12
 proposed	forum:12
 proposed	forum	tdawson:11
 personally	proposed	forum	tdawson:11
@@ -33390,12 +33389,14 @@ home:16
 nova:16
 takes:16
 corp:16
+further:16
 thought:16
 computers:16
 nothing:16
 price:16
 sci:16
 gives:16
+paper:16
 fairly:16
 keep:16
 determine:16
@@ -33443,6 +33444,7 @@ learn	personally:13
 learn	forum:13
 personally	learn	forum:13
 haven:16
+studio:16
 texas:16
 pd:17
 sciences:17
@@ -33460,6 +33462,7 @@ looks:17
 simply:17
 bitnet:17
 helps:17
+thus:17
 forum:17
 forum	tdawson:11
 feel	forum	tdawson:11
@@ -33475,7 +33478,6 @@ motion	rumours:9
 dr:17
 important:17
 explain:17
-pcx:17
 allow:17
 basic:17
 herringshaw:17
@@ -33551,14 +33553,12 @@ rumours:21
 wondering:21
 knows:21
 services:21
-open:21
 long:21
 description:21
 recommend:21
 correct:22
 didn:22
 recently:22
-27:22
 graphic:22
 suggestions:22
 exactly:22
@@ -33566,9 +33566,9 @@ apr:22
 personally:22
 personally	feel:13
 wrong:23
-getting:23
 needs:23
 life:24
 ideas:24
 feel:24
 tried:24
+maybe:26
