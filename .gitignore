@@ -17,7 +17,7 @@ Git Intro & How to hand your homework.ipynb
 *.csv
 
 # Ignore Python cache files
-__pycache__/
+helpers/__pycache__
 *.pyc
 
 .Ds_Store
